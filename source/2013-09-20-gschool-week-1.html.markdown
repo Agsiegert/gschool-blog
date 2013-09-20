@@ -1,6 +1,6 @@
 ---
 title: gSchool - Week 1
-date: 2013-09-13 21:40 UTC
+date: 2013-09-20
 tags:
 ---
 JUST BREATHE

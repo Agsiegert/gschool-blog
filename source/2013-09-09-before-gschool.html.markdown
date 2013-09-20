@@ -1,6 +1,6 @@
 ---
 title: Before -- gSchool
-date: 2013-09-09 18:41 UTC
+date: 2013-09-09
 tags:
 ---
 
