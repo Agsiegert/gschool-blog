@@ -16,7 +16,7 @@ tags:
 
   <b>You're now four weeks into the program. Have you mastered more or less than you would have predicted? Why?</b>
 
-  I came into the program not knowing much of any programing.  I hadn't used a Mac since College and had only a little knowledge of the process.  I knew that after 6 months I would be a proficient web app developer and that was why I came. Without an expectation I had no prediction other than an outcome. The first four weeks have been rough, with a huge learning curve. My expectations grew and I really stressed out that I was not following along, that I should be getting this and I was failing.  I stessed out so bad that I broke out in hives, which has never happened before.  I finally relaxed when I realised I was putting the pressure on myself.  This is not a traditional school.  We are here to learn and that is the most improtant thing.  Turning in projects, test etc are not important at this stage.  Knowing that made all the difference.  I coud break things, I could work on my projects with no fear. No fear that if I broke something and could not fix it, it was okay.  The project isn't "due" its to be worked on and where you get is where you get, no worries. I progressed alot without the stress and knowing it didnt matter if I broke it cause I could use that broken project to learn more and not worry so much about a final outcome.  I have a lot to learn, I know this and I work hard to learn each day.  
+  I came into the program not knowing much of any programing.  I hadn't used a Mac since College and had only a little knowledge of the process.  I knew that after 6 months I would be a proficient web app developer and that was why I came. Without an expectation I had no prediction other than an outcome. The first four weeks have been rough, with a huge learning curve. My expectations grew and I really stressed out that I was not following along, that I should be getting this and I was failing.  I stessed out so bad that I broke out in hives, which has never happened before.  I finally relaxed when I realised I was putting the pressure on myself.  This is not a traditional school.  We are here to learn and that is the most improtant thing.  Turning in projects, test etc are not important at this stage.  Knowing that made all the difference.  I coud break things, I could work on my projects with no fear. No fear that if I broke something and could not fix it, it was okay.  The project isn't "due" its to be worked on and where you get is where you get, no worries. I progressed alot without the stress and knowing it didnt matter if I broke it cause I could use that broken project to learn more and not worry so much about a final outcome.  I have a lot to learn, I know this and I work hard to learn each day.
 
   <b>If you had to guess now, where are your skills going to be in five months? What will you intend to do after the program?</b>
 
@@ -24,7 +24,7 @@ tags:
 
   <b>What learning strategies are working best for you so far? Why?</b>
 
-  <p>This pretty sums up my answer as a NOVICE<a href="http://jumpstartlab.com/news/archives/2013/10/03/pragmatic-learning-at-gschool-part-i">Link</a>. Thank you Katrina!</p>
+  <p>This pretty sums up my answer as a NOVICE <a href="http://jumpstartlab.com/news/archives/2013/10/03/pragmatic-learning-at-gschool-part-i">Link</a>. Thank you Katrina!</p>
 
 
 
