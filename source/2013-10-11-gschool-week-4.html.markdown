@@ -4,7 +4,7 @@ date: 2013-10-11 15:32 UTC
 tags:
 ---
 
-  <h1> Sacrifices </h>
+  <h1> Sacrifices </h1>
 
 
     <b>What were your takeaways from Focus Week? What do you understand better now than you did a week ago? What did you practice but still not master?</b>
