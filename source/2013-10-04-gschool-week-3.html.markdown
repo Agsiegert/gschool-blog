@@ -4,7 +4,7 @@ date: 2013-10-04 15:10 UTC
 tags:
 ---
 
-<H1><b>Week 3</b></H1>
+<H1><b>NOVICE</b></H1>
 
   Wow what a week!  Each time I get discouraged my mantra has been "compare what I know today to what I knew the day before gSchool!"  The amount of knowledge gained has been amazing. I started CodeYear and tried to complete the program through Codecademy in 2012.  Between running my business, working and family I didn't complete much.  By the end of last week at gSchool, I had basically learned more than I had form 2012 to September 8th, 2013, Wow.
 
