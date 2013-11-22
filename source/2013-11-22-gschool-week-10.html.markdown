@@ -3,7 +3,7 @@ title: gSchool - Week 10
 date: 2013-11-22 18:13 UTC
 tags:
 ---
-# Title#
+#Practice#
 
 * **What did you think about the code retreat? How did it feel to work on a problem which, given your time constraint, was unsolvable? What lessons/ideas did you take away?**
 
